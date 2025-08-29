@@ -1,0 +1,27 @@
+.cart_title{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.cart_table{
+    width: 800px;
+    margin-left: 175px;
+    vertical-align: middle;
+}
+
+.cart_item{
+    display: flex;
+}
+
+.cart_image{
+    height: 100px;
+}
+
+.cart_product_info{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 160px;
+}

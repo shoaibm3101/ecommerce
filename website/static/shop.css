@@ -1,0 +1,28 @@
+.subpage_title{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 75px;
+}
+
+.products_listed{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.product_card_body{
+    text-align: center;
+}
+
+.product_card{
+    margin-bottom: 50px;
+}
+
+.category_buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}

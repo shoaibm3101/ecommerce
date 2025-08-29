@@ -1,0 +1,33 @@
+.products_page{
+    /*background-image: url(pictures/temp_background.jpg);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+.product_info{
+    color: white;
+    width: 375px;
+    padding-left: 50px;
+    padding-top: 150px;
+}
+
+.product_info h1{
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    margin-bottom: 10px;
+}
+
+.product_info h4{
+    font-weight: 1000;
+}
+
+.product_info p{
+    font-weight: 800;
+}
+
+.product_info a{
+    width: 300px;
+}

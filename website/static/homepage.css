@@ -1,0 +1,179 @@
+/*.products_page{
+    background-color: gray;
+    padding-left: 10px;
+}
+
+.products_page h1{
+    color: wheat;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 200;
+    box-shadow: rgba(7, 7, 7, 0.25) 0px 54px 55px, rgba(117, 113, 113, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.homepage_sub{
+    color: black;
+    font-size: 30px;
+}*/
+
+
+.first_section{
+    display:flex;
+}
+
+.first_left{
+    background-image: url(pictures/fdc05fda-3ca2-401b-8755-f991dd244e7d_1_desktop.2.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:500px;
+    width:54%;
+    display:flex;
+    align-items: center;
+}
+
+.first_left_text{
+    width: 300px;
+    color: white;
+}
+
+.first_left h1{
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+.first_left p{
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.first_left a{
+    margin-left: 50px;
+}
+
+
+
+
+
+.first_right{
+    width: 48.5%;
+    height:500px;
+}
+
+.first_tr{
+    background-image: url(pictures/noise-cancelling-headphone-2048px-0876.webp);
+    background-size: cover;
+    height:300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first_tr_text{
+    width: 100px;
+    text-align: center;
+}
+
+.first_tr_text h5{
+    font-weight: 1000;
+}
+
+
+
+
+.first_br{
+    background-image: url(pictures/images\ \(1\).jpg);
+    background-size: cover;
+    height:200px;
+    display:flex;
+    align-items: center;
+}
+
+.first_br_text{
+    width: 200px;
+    margin-left: 30px;
+}
+
+.first_br_text h3{
+    font-weight: 1000;
+}
+
+
+
+
+
+
+
+
+.second_display{
+    display:flex;
+}
+
+.display_one{
+    background-image: url(/media/home_pictures/homeheadphones.avif);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    width: 33.3%;
+    height: 475px;
+}
+
+.display_one a{
+    margin-bottom: 45px;
+}
+
+.display_two{
+    background-image: url(/media/home_pictures/homeearphones.avif);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    width: 33.3%;
+    height: 475px;
+}
+
+.display_two a{
+    margin-bottom: 45px;
+}
+
+.display_three{
+    background-image: url(/media/home_pictures/homespeakers.avif);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    width: 33.4%;
+    height: 475px;
+}
+
+.display_three a{
+    margin-bottom: 45px;
+}
+
+
+.display_title{
+    margin-top: 20px;
+}
+
+
+
+
+.third_section{
+    background-image: url(pictures/2ab095ee-fc91-412c-a8f7-53cc978e4ab8_7_desktop-ASC.avif);
+    background-size: cover;
+    height: 500px;
+}
+
+
+.third_text{
+    width:400px;
+    padding-left:100px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.third_text h2{
+    font-weight: 700;
+}
